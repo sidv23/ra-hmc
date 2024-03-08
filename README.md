@@ -17,6 +17,7 @@ $ julia
 ```
 
 From the Julia REPL, you can enter the package manager by typing `]`, and activate the project environment with the required packages from the `Project.toml` file as follows.
+
 ```julia
 julia> ]
 pkg> activate .
