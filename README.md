@@ -6,7 +6,7 @@ This repository contains the code accompanying:
 > _Siddharth Vishwanath and Hyungsuk Tak_<br>
 > [arXiv:2403.04607](https://arxiv.org/abs/2403.04607)
 
-# Getting Started
+## Getting Started
 
 To get started, first clone the repository and start Julia.
 
