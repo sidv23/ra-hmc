@@ -36,7 +36,7 @@ If you use Github Codespaces, the `.devcontainer/devcontainer.json` file is conf
 
 The [notebooks](./notebooks/) directory contains the Jupyter notebooks for the experiments and simulations. The directory contains the following files:
 
-- [x] [`unimodal.ipynb`](./notebooks/unimodal.ipynb): Comparison of RA-HMC and HMC mixing for an standard (unimodal and isotropic) Gaussian distributions when $d \in \{2, 5, 10, 50, 100\}$.
+- [x] [`unimodal.ipynb`](./notebooks/unimodal.ipynb/): Comparison of RA-HMC and HMC mixing for an standard (unimodal and isotropic) Gaussian distributions when $d \in \{2, 5, 10, 50, 100\}$.
 
 - [x] [`benchmark.ipynb`](./notebooks/benchmark.ipynb): Comparison of RA-HMC, HMC, RAM and PEHMC for the benchmark dataset from [Kou et al. (2005)](https://projecteuclid.org/journals/annals-of-statistics/volume-34/issue-4/Equi-energy-sampler-with-applications-in-statistical-inference-and-statistical/10.1214/009053606000000515.full) comprising of a mixture of 20 Gaussian distributions in 2 dimensions.
 
