@@ -40,7 +40,7 @@ The [notebooks](./notebooks/) directory contains the Jupyter notebooks for the e
 
 - [x] `benchmark.ipynb`: Comparison of RAHMC, HMC, RAM and PEHMC for the benchmark dataset from [Kou et al. (2005)](https://projecteuclid.org/journals/annals-of-statistics/volume-34/issue-4/Equi-energy-sampler-with-applications-in-statistical-inference-and-statistical/10.1214/009053606000000515.full) comprising of a mixture of 20 Gaussian distributions in 2 dimensions.
 
-- [x] `circles-concentric.ipynb` and [`circles-nested.ipynb`](./notebooks/circles-nested.ipynb): Comparison of RAHMC, HMC, RAM, PEHMC and Wormhole HMC for distributions with "higher dimensional modes" supported on the boundary of $\ell_1$ balls in $\mathbb{R}^d$
+- [x] `circles-concentric.ipynb` and `circles-nested.ipynb`: Comparison of RAHMC, HMC, RAM, PEHMC and Wormhole HMC for distributions with "higher dimensional modes" supported on the boundary of $\ell_1$ balls in $\mathbb{R}^d$
 
 - [x] `anisotropic.ipynb`: Comparison of RAHMC, HMC, RAM and PEHMC for a mixture of two Gaussian distributions with correlation structure in high dimensions.
 
