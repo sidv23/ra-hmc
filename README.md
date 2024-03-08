@@ -1,6 +1,10 @@
 # RA-HMC
 
-This repository contains the code accompanying the paper [`Name of paper here`]().
+This repository contains the code accompanying the paper: 
+
+> Repelling-Attracting Hamiltonian Monte Carlo<br>
+> _Siddharth Vishwanath and Hyungsuk Tak_<br>
+> [arXiv:2110.04547](https://arxiv.org/abs/2110.04547)
 
 # Getting Started
 
@@ -50,4 +54,4 @@ The [scripts](./scripts/) directory contains the `.jl` source-code for the noteb
 
 ## Troubleshooting
 
-The code here uses `Julia v1.8.5`. For any issues, please click [here](https://github.com/sidv23/ra-hmc/issues/new/choose).
+The code here uses `Julia v1.10`. For any issues, please click [here](https://github.com/sidv23/ra-hmc/issues/new/choose).
