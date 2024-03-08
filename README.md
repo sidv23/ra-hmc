@@ -27,7 +27,7 @@ pkg> instantiate
 Alternatively, if you use the `DrWatson.jl` package, then you can quickly activate the project environment as follows.
 ```julia
 julia> using DrWatson
-julia > @quickactivate "momdist"
+julia > @quickactivate "ra-hmc"
 ```
 
 If you use Github Codespaces, the `.devcontainer/devcontainer.json` file is configured to setup the right Julia environment for you on initialization. 
