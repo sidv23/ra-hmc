@@ -1,6 +1,6 @@
 # RA-HMC
 
-This repository contains the code accompanying the paper: 
+This repository contains the code accompanying: 
 
 > Repelling-Attracting Hamiltonian Monte Carlo<br>
 > _Siddharth Vishwanath and Hyungsuk Tak_<br>
